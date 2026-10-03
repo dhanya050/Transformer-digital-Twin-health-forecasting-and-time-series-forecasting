@@ -1,0 +1,2 @@
+# Transformer-digital-Twin-health-forecasting-and-time-series-forecasting
+Transformer health assessment relied on manual inspection and periodic maintenance, which is inefficient and fails to detect early faults. To overcome these limitations, modern research focuses on Transformer Health Monitoring Systems using technologies like IoT, sensors, and machine learning for real-time monitoring and predictive maintenance.
